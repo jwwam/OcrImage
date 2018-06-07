@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ocrCode.iml" filepath="$PROJECT_DIR$/ocrCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OcrImage.iml" filepath="$PROJECT_DIR$/OcrImage.iml" />
     </modules>
   </component>
 </project>
