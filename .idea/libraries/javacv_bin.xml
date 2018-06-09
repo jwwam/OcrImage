@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="javacv-bin">
     <CLASSES>
-      <root url="file://$USER_HOME$/Desktop/javacv-bin" />
+      <root url="file://G:/forder/source/javacv-bin" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="file://$USER_HOME$/Desktop/javacv-bin/samples" />
+      <root url="file://G:/forder/source/javacv-bin/samples" />
     </SOURCES>
-    <jarDirectory url="file://$USER_HOME$/Desktop/javacv-bin" recursive="false" />
+    <jarDirectory url="file://G:/forder/source/javacv-bin" recursive="false" />
   </library>
 </component>

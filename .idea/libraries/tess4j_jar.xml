@@ -1,10 +1,32 @@
 <component name="libraryTable">
   <library name="tess4j-jar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/lib/tess4j-jar" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/ghost4j-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/jai-imageio-core-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/log4j-over-slf4j-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/jboss-vfs-3.2.12.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/pdfbox-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/fontbox-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/logback-core-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/pdfbox-tools-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/tess4j-3.4.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/logback-classic-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/commons-io-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/xmlgraphics-commons-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/jul-to-slf4j-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/jbig2-imageio-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/commons-beanutils-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/itext-2.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/lept4j-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/jna-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tess4j-jar/jcl-over-slf4j-1.7.25.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
-    <jarDirectory url="file://$PROJECT_DIR$/lib/tess4j-jar" recursive="false" />
   </library>
 </component>

@@ -7,8 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="lib" level="project" />
-    <orderEntry type="library" name="javacv-bin" level="project" />
     <orderEntry type="library" name="tess4j-jar" level="project" />
+    <orderEntry type="library" name="javacv-bin" level="project" />
   </component>
 </module>
